@@ -1,1 +1,1 @@
-window.APP_CONFIG = { webAppUrl: 'https://script.google.com/a/macros/mahidol.ac.th/s/AKfycbxb2FuQ3H_Cf7PfbuJLis-SSM0WjDhXDGnxEvvpmX9klFETNrwCLFqH-7opDuX0mFebQA/exec' };
+window.APP_CONFIG = { webAppUrl: 'https://script.google.com/a/macros/mahidol.ac.th/s/AKfycbwNtTeasOymEaX4PxSiRwVMGdw8_J7nw9QKLbW7rHn2r-Lpda7KMmH4IflFvD5RTn8/exec' };
